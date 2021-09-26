@@ -1,0 +1,17 @@
+.costAlignment {
+    text-align: start;
+    color: #2d3e50;
+    margin-left: 10px;
+}
+
+.list {
+   
+    font-weight: 500;
+    color: #2d3e50;
+    margin: 20px 0;
+}
+
+.costimgWidth {
+    width: 40px;
+    height: 20px;
+   }

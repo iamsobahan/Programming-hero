@@ -1,0 +1,50 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 10px 0;
+
+}
+
+.cart {
+    border: 2px solid lightgray;
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: #2d3e50;
+}
+
+.img-width {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.btn {
+    padding: 10px 15px;
+    outline: none;
+    background: #fbaa33;
+    border-radius: 5px;
+    border: none;
+    color: #2d3e50;
+    font-weight: 600;
+    cursor: pointer;
+
+}
+
+.icon {
+    margin: 10px 10px;
+    color: white;
+    padding: 8px 10px;
+    text-align: center;
+    background: #2d3e50;
+    transition: .4s;
+    cursor: pointer;
+
+}
+
+.icon:hover {
+    background: #fbaa33;
+    color: #2d3e50;
+}

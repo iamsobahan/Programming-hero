@@ -1,0 +1,11 @@
+.grid-cart-cost {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    margin-top: 20px;
+}
+
+.grid-team {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+}
