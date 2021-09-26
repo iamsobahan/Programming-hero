@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was Raw css with [Create React App](https://fervent-villani-0b070c.netlify.app/).
 
 ## Available Scripts
 
